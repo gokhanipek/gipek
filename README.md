@@ -11,4 +11,3 @@ Created from create-react-app boilerplate.
 
 ## To test:
 ### `npm run test`
-# gipek
